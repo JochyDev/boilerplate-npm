@@ -6,6 +6,7 @@
 	"author": "@JochyDev",
 	"description": "A project that does something awesome",
 	"main": "server.js",
+	"keywords": [ "freecodecamp", "backend", "node" ],
 	"scripts": {
 		"start": "node server.js"
 	},
